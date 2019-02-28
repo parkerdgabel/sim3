@@ -3,6 +3,11 @@
   <component name="ClojureProjectResolveSettings">
     <currentScheme>IDE</currentScheme>
   </component>
+  <component name="IntelliCalc">
+    <mode value="2" />
+    <system value="10" />
+    <angles value="deg" />
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="IntelliJ IDEA Community Edition IC-182.5107.16" project-jdk-type="IDEA JDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
